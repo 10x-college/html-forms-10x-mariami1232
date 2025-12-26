@@ -56,7 +56,7 @@ Earth needs to know who is sending the message.
    - Add the `required` attribute
 
 4. **Command Email:** 
-   - Create a `<label>` element with the text "Command Email:"
+   - Create a `<label>` element with the text " :"
    - Give it a `for` attribute with a unique identifier
    - Create an `<input>` element with `type` attribute set to "email"
    - Connect it to the label using a matching `id` attribute
@@ -79,7 +79,7 @@ The rescue team needs to know the state of your ship.
    - Add the `required` attribute
 
 3. **Emergency Level:** 
-   - Create a `<label>` element with the text "Emergency Level:"
+   - Create a `<label>` element with the text "emergency-level:"
    - Give it a `for` attribute with a unique identifier
    - Create a `<select>` element (this creates a dropdown menu)
    - Connect it to the label using a matching `id` attribute
